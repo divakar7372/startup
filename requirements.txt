@@ -4,4 +4,4 @@ flask>=1.1.2
 werkzeug>=1.0.1
 markupsafe>=1.1.1
 jinja2>=2.11.2
-sklearn>=0.23.2
+scikit-learn>=0.23.2
